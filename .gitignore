@@ -1,0 +1,12 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+_tests/
+tests-examples/
+package-lock.jso
+.env
+report-videos/
+reports-screenshots/
+report-screenshots/
